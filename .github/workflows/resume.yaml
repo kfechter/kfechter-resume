@@ -15,7 +15,7 @@ jobs:
         uses: lvignoli/typst-action@main
         with:
           source_file: |
-            main.typ
+            resume.typ
 
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
