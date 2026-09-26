@@ -43,7 +43,7 @@
 #edu(
   institution: "University of Cincinnati",
   location: "Cincinnati, OH",
-  dates: dates-helper(start-date: "Sep 2011", end-date: "Apr 2026"),
+  dates: dates-helper(start-date: "Sep 2011", end-date: "Apr 2016"),
   degree: "Bachelor's of Science, Biomedical Engineering",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
